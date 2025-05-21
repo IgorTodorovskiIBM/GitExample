@@ -1,3 +1,3 @@
 # GitExample
 
-Test is a test - 1
+Test is a test - 3
